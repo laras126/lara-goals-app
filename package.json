@@ -1,0 +1,22 @@
+{
+  "name": "lara-goals-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "marked": "^0.7.0",
+    "xml2js": "^0.4.22"
+  }
+}
